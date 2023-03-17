@@ -4,7 +4,7 @@ npmとreactを使ったホットリロード可能なchrome拡張機能のテン
 ## みて！
 
 ## npm run dev
-## 拡張機能を再読み込みすることで更新される
+### 拡張機能を再読み込みしたら更新される
 
 
 #### ```public/manifest.json```　の ```"matches": [ "https://www.google.co.jp/*" ]``` のURLを目的に合わせて書き換える
