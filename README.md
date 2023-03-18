@@ -17,8 +17,7 @@ output: {
     filename: "[name].js",
   }
 ```
-#### の
-```"../../../../mnt/c/Users/syout/Documents/chrome_extension/js"```
+#### の```"../../../../mnt/c/Users/syout/Documents/chrome_extension/js"```
 を好きなパスに書き換える(```/js```で終わる必要がある)
 
 # 3
