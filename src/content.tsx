@@ -6,5 +6,8 @@ const Main = () => {
 };
 
 const app = document.createElement("div");
-document.body.prepend(app);
+const head = document.querySelector('head');
+
 ReactDOM.render(<Main />, app);
+head?.after(app);
+
